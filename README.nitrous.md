@@ -11,4 +11,3 @@ Run the following commands in the Terminal below:
 5. `meteor`
 
 Go to the "Preview Menu" and click "Port 3000"
-
